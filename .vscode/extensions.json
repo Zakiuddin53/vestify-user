@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "Prisma.prisma",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "DigitalBrainstem.javascript-ejs-support",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-autoprefixer",
+    "mgmcdermott.vscode-language-babel",
+    "ms-vsliveshare.vsliveshare",
+    "SonarSource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "YoavBls.pretty-ts-errors",
+    "xabikos.JavaScriptSnippets",
+    "wix.vscode-import-cost"
+  ]
+}
